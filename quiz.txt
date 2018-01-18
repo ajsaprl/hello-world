@@ -1,3 +1,4 @@
 Hello World
 No more Clear Case
 Additional line
+this should be the 4th line
