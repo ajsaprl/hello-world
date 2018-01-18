@@ -1,4 +1,8 @@
 Hello World
 No more Clear Case
 Additional line
+<<<<<<< HEAD
 This line added as edited from the test branch
+=======
+this should be the 4th line
+>>>>>>> 4d20b7b1388a658b722ce2f677a26cea2e0b8177
