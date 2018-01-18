@@ -1,3 +1,7 @@
 Hello World
+<<<<<<< HEAD
 Git is easy
 and Git is fun
+=======
+No more Clear Case
+>>>>>>> master
